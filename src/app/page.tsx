@@ -118,7 +118,7 @@ export default function Home() {
       </div>
 
       <p className="mt-6 text-gray-600 text-sm animate-fade-in">
-        Made with ❤️ by BitBrief
+        Made with ❤️ by <a href="https://github.com/bitbrief">BitBrief</a>
       </p>
 
       {isLoading && (
